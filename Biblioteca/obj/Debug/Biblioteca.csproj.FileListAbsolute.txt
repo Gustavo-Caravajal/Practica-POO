@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Curso C# - Nivel 2\Repaso\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Curso C# - Nivel 2\Repaso\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Curso C# - Nivel 2\Repaso\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Curso C# - Nivel 2\Repaso\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\User\Desktop\Curso C# - Nivel 2\Repaso\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\User\Desktop\Curso C# - Nivel 2\Repaso\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\User\Desktop\Curso C# - Nivel 2\Repaso\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\User\Desktop\Curso C# - Nivel 2\Repaso\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
